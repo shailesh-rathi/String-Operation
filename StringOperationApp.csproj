@@ -7,8 +7,8 @@
     <ProjectGuid>{219714AE-D786-4A36-A0D5-20C6A14839E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TrainApp</RootNamespace>
-    <AssemblyName>TrainApp</AssemblyName>
+    <RootNamespace>StringOperation</RootNamespace>
+    <AssemblyName>StringOperation</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
