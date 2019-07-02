@@ -1,0 +1,7 @@
+C:\Users\srathi\source\repos\StringOperation\bin\Debug\TrainApp.exe.config
+C:\Users\srathi\source\repos\StringOperation\bin\Debug\TrainApp.exe
+C:\Users\srathi\source\repos\StringOperation\bin\Debug\TrainApp.pdb
+C:\Users\srathi\source\repos\StringOperation\obj\Debug\StringOperationApp.csprojAssemblyReference.cache
+C:\Users\srathi\source\repos\StringOperation\obj\Debug\StringOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\srathi\source\repos\StringOperation\obj\Debug\TrainApp.exe
+C:\Users\srathi\source\repos\StringOperation\obj\Debug\TrainApp.pdb
